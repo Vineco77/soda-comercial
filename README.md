@@ -1,4 +1,4 @@
-### Projeto Trophy, valorize melhor seu funcionário do mês com o Trophy 🏆
+### Projeto feito para fiz comerciais, referente a uma marca de soda 🥤
 #### Fique a vontade para navegar, em caso de dúvidas estou disponível 24/7 para você 🫵
 
 <div>
@@ -10,7 +10,7 @@
 #### Link para o Site 🎯
 
 <div>
-    <a href="https://trophy-gamma.vercel.app" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+    <a href="https://vineco77.github.io/soda-comercial/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
 #### ⬇️Pode me chamar no⬇️
@@ -49,5 +49,3 @@
 - Para colocar uma imagem com o mesmo formato basta colocar:
     mask-image: url(img/soda.png);
     mask-size: auto 100%;
-
-- 
